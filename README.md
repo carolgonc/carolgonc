@@ -1,11 +1,11 @@
-<h1 align="center">👋 Oi, eu sou a Caroliny Gonçalves</h1>
-<h3 align="center">Desenvolvedora Java Fullstack com paixão por aprender e construir!</h3>
+👋 Oi, eu sou a Caroliny Gonçalves
+Desenvolvedora Java Fullstack com paixão por aprender e construir!
 
-<p align="center">
+
   💻 Desenvolvedora Java Fullstack formada pela Generation Brasil<br>
   🚀 Conhecimentos em Java, Spring Boot, React, C e MySQL<br>
   📍 Rio de Janeiro | Brasil
-</p>
+
 
 ---
 
@@ -32,12 +32,8 @@
 
 ---
 
-<h4 align="center">🕵️‍♀️ "Bug encontrado às 14h37. Corrigido às 14h38. Causa da morte: variável mal declarada."</h4>
+🕵️‍♀️ "Bug encontrado às 14h37. Corrigido às 14h38. Causa da morte: variável mal declarada."
 
-
-<a href="https://github.com/carolgonc" title="Perfil da Caroliny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinycode&theme=dracula&show_icons=true" />
-</a>
 ---
 
 ### 📫 Onde me encontrar
