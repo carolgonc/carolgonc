@@ -1,5 +1,5 @@
-<p>👋 Oi, eu sou a Caroliny Gonçalves
-Desenvolvedora Java Fullstack com paixão por aprender e construir!</p>
+<h1>👋 Oi, eu sou a Caroliny Gonçalves</h1>
+<h3>Desenvolvedora Java Fullstack com paixão por aprender e construir!</h3>
 
 
   💻 Desenvolvedora Java Fullstack formada pela Generation Brasil<br>
